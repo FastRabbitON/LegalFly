@@ -1,0 +1,72 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.AppContainer {
+  padding: 2rem;
+}
+
+.InputContainer {
+  width: 100%;
+  height: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.AutocompleteInput {
+  width: 75%;
+}
+
+.ItemTitleContainer {
+  width: 100%;
+  height: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.ItemInfoContainer {
+  width: 100%;
+  height: 25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.ItemImage,
+.ItemDescription {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ItemImage img {
+  width: fit-content;
+  height: 100%
+}
+
+
+.DescriptionWindow {
+  width: 80%;
+  height: 50%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: rgba(255, 166, 0, 0.5);
+  border-radius: 10px;
+  border: 0.2rem solid orange;
+  transition: all 0.5s ease-in-out;
+}
