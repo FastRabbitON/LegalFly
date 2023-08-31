@@ -289,7 +289,7 @@ const Items = [
 
   {
     title: 'Jogurt, bita śmietana, budyń gotowy',
-    imageCode: 'Y -Y',
+    imageCode: 'Y-Y',
     warning: false,
     smallDes: "Płyny w bagażu podręcznym można przewozić w pojemnikach do 100 ml każdy; Brak zakazu przewozu żywności obowiązuje na terenie krajów UE. Niektóre kraje zakazują wwozu żywności nieprzetworzonej i świeżej na swoje terytorium. Np. do USA czy Australii nie można wwozić większości warzyw, owoców, nasion czy produktów pochodzenia zwierzęcego. Takich produktów nie można również wwozić na teren UE z państw trzecich. Przed rozpoczęciem podróży upewnij się czy do danego kraju możesz wwozić produkty, które zamierzasz z sobą zabrać. Informacje na ten temat znajdziesz na oficjalnych stronach rządowych danego kraju.",
     bigDes: "Brak zakazu przewozu żywności obowiązuje na terenie krajów UE. Niektóre kraje zakazują wwozu żywności nieprzetworzonej i świeżej na swoje terytorium. Np. do USA czy Australii nie można wwozić większości warzyw, owoców, nasion czy produktów pochodzenia zwierzęcego. Takich produktów nie można również wwozić na teren UE z państw trzecich. Przed rozpoczęciem podróży upewnij się czy do danego kraju możesz wwozić produkty, które zamierzasz z sobą zabrać. Informacje na ten temat znajdziesz na oficjalnych stronach rządowych danego kraju."
