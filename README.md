@@ -1,4 +1,4 @@
-# Weather App ⛅️
+# LegalFly ✈️👮🧳
 
 Check out project online [HERE!](https://fastrabbiton.pl/legalfly)
 
