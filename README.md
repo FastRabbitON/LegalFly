@@ -10,7 +10,7 @@ Check out project online [HERE!](https://fastrabbiton.pl/legalfly)
 * [Contact](#contact)
 
 ## General Information
-The application thanks to which you will find out what you can carry by plane. The application will show you in what suitcase and under what conditions you can transport various items.
+The application will show you in which suitcase and under what conditions you can transport various items by plane.
 
 ## Technologies Used
 - HTML
